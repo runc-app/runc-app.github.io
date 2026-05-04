@@ -1,0 +1,1 @@
+const e=["A","B","C","D","E","F","G","H","I","J"],a={penalty_mode:"integrated",fine_count:0,fine_distance:0,fine_integrated:0},n={enabled:!1,target:10,minValid:5,minRuns:2,maxTime:null,penaltyExtra:null,fee:null,pacePenaltyRanges:null},t={A:{...n},B:{...n},C:{...n},D:{...n},E:{...n},F:{...n},G:{...n},H:{...n},I:{...n},J:{...n}};export{e as A,a as D,t as a};
