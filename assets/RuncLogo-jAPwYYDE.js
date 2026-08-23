@@ -1,0 +1,1 @@
+import{l as o}from"./index-bclrsLeJ.js";function l({size:r=40}){return o.jsx("div",{className:"overflow-hidden flex-shrink-0 border border-zinc-700",style:{width:r,height:r,borderRadius:r*.22},children:o.jsx("img",{src:"/runc-icon.png",alt:"RUNC",className:"w-full h-full object-cover"})})}export{l as R};
